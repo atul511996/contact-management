@@ -1,0 +1,9 @@
+let signUp = async(phone , password , name )=>{
+	return "Success"
+
+}
+
+
+module.exports={
+	signUp
+}

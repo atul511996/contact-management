@@ -1,0 +1,10 @@
+const userSchema = requlre("../schema/user")
+let signUp = async(phone , password , name )=>{
+	return "Success"
+
+}
+
+
+module.exports={
+	signUp
+}
