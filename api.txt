@@ -1,0 +1,6 @@
+1) signUp POST
+    inputs : {"phone":236372666, "name":"Atul" , "password":"Hello1234"}
+
+
+2) login POST
+    inputs : {"phone":23637266, "password":"Hello1234"}
